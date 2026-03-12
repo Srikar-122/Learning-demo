@@ -4,5 +4,4 @@ GitHub is a web-based platform for version control and collaboration using Git. 
 - Track changes and maintain project history
 - Collaborate with other developers through pull requests
 - Review code and manage issues
-- Automate workflows with GitHub Actions
-- Host documentation and project pages.
+- Automate workflows with GitHub Actions.
